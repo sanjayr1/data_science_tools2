@@ -8,10 +8,12 @@
    
 ** Optional Books 
    - [[https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=sr_1_2?s=books&ie=UTF8&qid=1522206082&sr=1-2&keywords=pandas][Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition]]  by Wes McKinney. It is available online from [[https://library.du.edu/][library]]
-   - [[https://du-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01UODE_ALMA51971778520002766&context=L&vid=01UODE_MAIN&lang=en_US&search_scope=everything_scope&adaptor=Local%2520Search%2520Engine&tab=default_tab&query=any,contains,Mastering%2520Python%2520Regular%2520Expressions%2520&sortby=rank&mode=Basic][Mastering Python Regular Expressions]] by  Félix López  (Author), Víctor Romero 
    - [[http://greenteapress.com/thinkstats2/html/index.html][Think Stats: Exploratory Data Analysis in Python]]
    -[[http://greenteapress.com/wp/think-bayes/][ Think Bayes]]  
    - [[http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/][Probabilistic Programming & Bayesian Methods for Hackers]]
+   - [[https://du-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01UODE_ALMA51971778520002766&context=L&vid=01UODE_MAIN&lang=en_US&search_scope=everything_scope&adaptor=Local%2520Search%2520Engine&tab=default_tab&query=any,contains,Mastering%2520Python%2520Regular%2520Expressions%2520&sortby=rank&mode=Basic][Mastering Python Regular Expressions]] by  Félix López  (Author), Víctor Romero 
+   
+     more to come
 ** Optional material online
 
 
@@ -30,6 +32,16 @@ on best data science/software engineering practices and reproducible work.
 *Please start looking for  a project. You are allowed to have a group of 2 to 3 students but project work must justify team count.* There will be a homework asking about the detail of your final project. We'll provide feedback about feasibility of the final project.
 *Final project, can be based on initial data science tool1 work or capstone work?. Please let us know if this is the case. We need to go over details.*
 
+*** Project proposal(not graded, submit a jupyter notebook)
+ - Team members
+ - Motivation
+ - Literature review
+ - Planned work
+ - Model evaluation and selection.
+ - Timeline
+
+*We'll ask about project progress throughout the course work* 
+
 ** Syllabus
 *This syllabus is subject to change at the discretion of the instructor*.
 - Statistical testing
@@ -46,9 +58,9 @@ on best data science/software engineering practices and reproducible work.
 
 * Grading
 *There will be  coding/analysis homework assignments, midterm and a final project. We'll drop one of your worst assignment grade*.
-
+We'll allow 2 late homework with cutoff of 36 hours. We'll subtract $total_marks*exp(-(minutes late)/(24*60))$ for late submissions via email.
 There will be a final presentation of the final project.
-You will be required to  submit a final project report in the jupyter notebook format.
+You will be required to  submit a project plan document and a final project report in the jupyter notebook format.
 
 ** [[./project_presentation.org][project project presentation grading  rubric]]
 ** [[./project_rubric.org][final project report grading rubric]]
@@ -56,15 +68,13 @@ You will be required to  submit a final project report in the jupyter notebook f
 ** Dates
 
 |---------------------------------------------------------------------------------------------------------+-----|
-| coding Homework                                                                                         | 45% |
+| coding Homework                                                                                         | 35% |
 |---------------------------------------------------------------------------------------------------------+-----|
-| midterm, 13 Feb in class                                                                                | 25% |
+| Midterm, 8 th May in class                                                                              | 25% |
 |---------------------------------------------------------------------------------------------------------+-----|
-| Comprehensive final 8th May. *We'll use best of your midterm or final marks*                            |     |
+| Final project presentation, 8 minutes, 5th June in class                                                | 10% |
 |---------------------------------------------------------------------------------------------------------+-----|
-| Final project presentation, 10 minutes, 5th June in class                                               | 15% |
-|---------------------------------------------------------------------------------------------------------+-----|
-| Final project report, due 5 th June, please refer to above final report format for submission guideline | 20% |
+| Final project report, due 5 th June, please refer to above final report format for submission guideline | 30% |
 |---------------------------------------------------------------------------------------------------------+-----|
 |                                                                                                         |     |
 
@@ -134,7 +144,7 @@ I am using python 3.5.2. Hopefully any version of python 3 should work.
 
 - *apt-get install python3-venv*
 - Using command line(*cd command*), go to the folder where you want to keep python file, notebooks related to this course.
-- run **python3 -m venv /path/to/new/virtual/environment**
+- run *python3 -m venv /path/to/new/virtual/environment*
   + e.g. I ran *python3 -m venv dst1_env*
 - To activate your environment run *source /path/to/new/virtual/environment/bin/activate*
   + e.g From this course directory I run, *source dst1_env/bin/activate*

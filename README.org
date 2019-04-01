@@ -58,7 +58,7 @@ on best data science/software engineering practices and reproducible work.
 
 * Grading
 *There will be  coding/analysis homework assignments, midterm and a final project. We'll drop one of your worst assignment grade*.
-We'll allow 2 late homework with cutoff of 36 hours. We'll subtract $total_marks*exp(-(minutes late)/(24*60))$ for late submissions via email.
+We'll allow 2 late homework with cutoff of 36 hours. We'll subtract *ceil(total_marks*exp(-(minutes late)/(24*60)))* marks from total marks for the assignments for late submissions via email.
 There will be a final presentation of the final project.
 You will be required to  submit a project plan document and a final project report in the jupyter notebook format.
 

@@ -186,7 +186,13 @@ I will go over basic of python and jupyter notebook.
 
 * Course Activity
 
-| Date | Reading/Coding Assignments | class activity |
-|------+----------------------------+----------------|
-|------+----------------------------+----------------|
-|      |                            |                |
+| Date      | Reading/Coding Assignments | class activity                                                                                                |
+|-----------+----------------------------+---------------------------------------------------------------------------------------------------------------|
+|-----------+----------------------------+---------------------------------------------------------------------------------------------------------------|
+| 1 - April | see the notebook           | Reviewed basics of hypothesis testing framework.                                                              |
+|           |                            | Please make sure you check all the assumption of a test before using it.                                      |
+|           |                            | Also start looking for dataset for the final project. There will be an assignment asking for project proposal |
+|           |                            |                                                                                                               |
+|-----------+----------------------------+---------------------------------------------------------------------------------------------------------------|
+|-----------+----------------------------+---------------------------------------------------------------------------------------------------------------|
+|           |                            |                                                                                                               |

@@ -171,7 +171,8 @@ I will go over basic of python and jupyter notebook.
 * Notebooks
 ** April 1 
 - [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/hypothesis_testing.ipynb][hypothesis testing]]
-
+** April 3
+- [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/feature_engineering.ipynb][feature engineering]]
 * Homeworks
 *No late hw will be accepted*
 

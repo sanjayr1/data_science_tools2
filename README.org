@@ -201,4 +201,8 @@ I will go over basic of python and jupyter notebook.
 |           |                                      | neural embedding(GloVe vectors in $\mathbb{R}^d$ for words). For numerical attributes using some transformation of attributes(basis function expansion) |
 |           |                                      | polynomial features etc.                                                                                                                                |
 |-----------+--------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 8 t April |                                      | feature selection method, filter , wrapper, embedded,                                                                                                   |
+|           |                                      | t-SNE projection overview, create account at https://aws.amazon.com/free/ for starting cloud computing                                                  |
+|           |                                      | See this new [[https://allennlp.org/elmo][ELMO]] word representation too                                                                                                               |
+|-----------+--------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           |                                      |                                                                                                                                                         |

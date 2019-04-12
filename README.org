@@ -25,20 +25,25 @@ We'll continue data science life cycle after data cleanup and summarization. The
 Primary focus in tools 2 is statistical testing, feature engineering and
 building effective predictive models. We'll use [[http://jupyter.org/][jupyter notebook/lab]] for in the class and homeworks assignments.
 
-For the final project, students will work through  individual or team projects applying course-work
+For the final project, students will work through  individual or team projects applying course-work.
 to the  data lifecycle within a particular domain. The focus will also be
 on best data science/software engineering practices and reproducible work.
 
 *Please start looking for  a project. You are allowed to have a group of 2 to 3 students but project work must justify team count.* There will be a homework asking about the detail of your final project. We'll provide feedback about feasibility of the final project.
 *Final project, can be based on initial data science tool1 work or capstone work?. Please let us know if this is the case. We need to go over details.*
 
-*** Project proposal(not graded, submit a jupyter notebook)
- - Team members
- - Motivation
- - Literature review
- - Planned work
- - Model evaluation and selection.
- - Timeline
+*** Project proposal via github link(not graded). Any team member can submit this.
+Main focus in tools 2 is building predictive models.
+ - Team members. Justification for 2 and 3 team members .
+ - Problems/Motivation.
+ - What libraries/tools you will need. What you already know and what else you need to evaluate.
+ - Data Collection details.
+ - Any Literature review.
+ - Required work detail before build model(clean up, hypothesis, data bias analysis etc.).
+ - What is the predictive task and model detail. Model evaluation and selection strategy.
+ - How a user is going to test the final model. is there any webpage/command line interface. It can be like using *curl* from command line and calling a function(lambda via API gateway) in the cloud(AWS).
+ - Tentative time line of activities.
+
 
 *We'll ask about project progress throughout the course work* 
 

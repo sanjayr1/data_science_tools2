@@ -2,7 +2,7 @@
 
 Project requires submission of
 -   .ipynb notebook  file  and a compiled pdf file. There must be a Binderhub link for running the notebook in github.
-- Or if you are using cloud for building you project then a link to the website/details about running the project and a final project report pdf file. 
+- Or if you are using cloud for building your project then a link to the website/details about running the project and a final project report pdf file. 
 
 Final pdf file/notebook, should read like a data driven story/scientific study (data science). This is really important if you want to publish you story as 
 blog in the web. There are tool to publish notebook as blog article.
@@ -14,13 +14,13 @@ Final project report(notebook or pdf) must address following points
 
 ** Quality of cleaning (3 points, 1 points each)
  - Data Cleaning and type conversion activity. 
- - What you did about missing values and  why?
+ - What you did about missing values and  why? Please pay more attention to this activity.
  - Data summary statistics and interpretation.
 
 ** Visualization (4 points, 1 points each)
   - Data Visualization activity(box plot, bar plot, violin plot, pairplot to see relationship and distribution etc).
   - Describe any thing you find in the data after each visualization.
-  - What data  visualization help you understanding data distribution.
+  - What data  visualization helped you understanding data distribution.
   - What did you do about possible outlier as per data distribution visualization. (Did you confirm it with your client if it is actually an outlier or put a disclosure statement in notebook if you decided to remove it.)
 
 ** Modelling activity/evaluation/conclusion (5 points equally distributed in following 2 question depending on whether you are building a model or not) 
@@ -33,7 +33,7 @@ Final project report(notebook or pdf) must address following points
   + *If you are building analytical website.* 
     + Describe Main Dash board, webpage with images.(1 point)
     + For at least one analytical/machine learning visualization(2 points,  1 point each)
-      * Webpage/form to enter and submit new data points. After submitting the data webpage graphics must change to reflect new observation effect on graphics.
+      * Webpage/form to enter and submit new data points. After submitting the data, webpage graphics must change to reflect new observation effect on graphics.
     + Any KPIs visualization and interpretation ?
 ** Conclusion (2 points)
    What is the final analysis of questions based on project activities.

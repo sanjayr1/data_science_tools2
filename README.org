@@ -32,8 +32,8 @@ on best data science/software engineering practices and reproducible work.
 *Please start looking for  a project. You are allowed to have a group of 2 to 3 students but project work must justify team count.* There will be a homework asking about the detail of your final project. We'll provide feedback about feasibility of the final project.
 *Final project, can be based on initial data science tool1 work or capstone work?. Please let us know if this is the case. We need to go over details.*
 
-*** Project proposal via github link(not graded). Any team member can submit this.
-Main focus in tools 2 is building predictive models.
+*** Project proposal
+Not graded. Any team member can submit this. Main focus in tools 2 is building predictive models.
  - Team members. Justification for 2 and 3 team members .
  - Problems/Motivation.
  - What libraries/tools you will need. What you already know and what else you need to evaluate.

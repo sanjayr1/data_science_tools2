@@ -1,0 +1,32 @@
+* Project presentation
+
+A 12 -15 slide presentation(8 minutes) must contain following sections.*
+
+** Dataset and motivation Research Questions (2= 1+1 points)
+  What real world problem you trying to solve? List of questions? 
+  What is your plan for dataset collection(web API, streaming, web scrapping or other format) and clearly describe the meta data of your dataset. 
+
+
+**  Data munging and statistical summary (3=1+1+1 points)
+ - Data cleanup(null and outlier handling), summary statistics and interpretation.
+
+**  Main visualization (1(.5+.5) points each)
+  - Data Visualization and description activity(box plot, bar plot, violin plot, pairplot to see relationship and distribution etc).
+
+** Modelling activity/evaluation/conclusion(5 points, depending on whether you are building a model or analytical website) 
+  - if you are bulid a model like logistic/linear regression (3 points, 1 point each)
+    + What kind of hypothesis you tested about predictors(independent variables).
+    + What motivated you to use this model.
+    + How you selected and evaluated the model.  
+
+  - If you are building analytical website. (3 points, 1 point each)
+    + Describe tools for building website and database(tables etc.)
+    + Snapshot of main Dash board webpage.
+    + Snapshot of one other data driven analytic webpage and its description.
+  -  What is current evaluation or finding of the project.(2 points)
+     + is there some metric you can report?
+     + any KPI(key performance indicator) visualization.
+
+
+
+

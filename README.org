@@ -15,7 +15,7 @@
    
      more to come
 ** Optional material online
-
+ - [[https://www.machinelearningplus.com/nlp/gensim-tutorial/][Gensim Tutorial – A Complete Beginners Guide]] shared by Logan Register
 
 * Course Description
 It is recommended that you consult this github page often for material related to this course. You should check your e-mail periodically for messages.

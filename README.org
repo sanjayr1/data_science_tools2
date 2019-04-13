@@ -15,6 +15,8 @@
    
      more to come
 ** Optional material online
+ - [[https://radimrehurek.com/gensim/tutorial.html][Gensim tutorials]]
+
  - [[https://www.machinelearningplus.com/nlp/gensim-tutorial/][Gensim Tutorial – A Complete Beginners Guide]] shared by Logan Register
 
 * Course Description

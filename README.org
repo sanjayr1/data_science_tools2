@@ -199,21 +199,23 @@ I will go over basic of python and jupyter notebook.
 |       |                       |                       |          |
 * Course Activity
 
-| Date      | Reading/Coding Assignments           | class activity                                                                                                                                          |
-|-----------+--------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
-|-----------+--------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 - April | see the notebook                     | Reviewed basics of hypothesis testing framework.                                                                                                        |
-|           |                                      | Please make sure you check all the assumption of a test before using it.                                                                                |
-|           |                                      | Also start looking for dataset for the final project. There will be an assignment asking for project proposal                                           |
-|           |                                      |                                                                                                                                                         |
-|-----------+--------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
-|-----------+--------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 3rd April | see the notebook in notebook section | handling categorical attributes, creating features from text using count vector, TF-IDF features,                                                       |
-|           |                                      | neural embedding(GloVe vectors in $\mathbb{R}^d$ for words). For numerical attributes using some transformation of attributes(basis function expansion) |
-|           |                                      | polynomial features etc.                                                                                                                                |
-|-----------+--------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 8 t April |                                      | feature selection method, filter , wrapper, embedded,                                                                                                   |
-|           |                                      | t-SNE projection overview, create account at https://aws.amazon.com/free/ for starting cloud computing                                                  |
-|           |                                      | See this new [[https://allennlp.org/elmo][ELMO]] word representation too                                                                                                               |
-|-----------+--------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
-|           |                                      |                                                                                                                                                         |
+| Date        | Reading/Coding Assignments           | class activity                                                                                                                                          |
+|-------------+--------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-------------+--------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 - April   | see the notebook                     | Reviewed basics of hypothesis testing framework.                                                                                                        |
+|             |                                      | Please make sure you check all the assumption of a test before using it.                                                                                |
+|             |                                      | Also start looking for dataset for the final project. There will be an assignment asking for project proposal                                           |
+|             |                                      |                                                                                                                                                         |
+|-------------+--------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-------------+--------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 3rd April   | see the notebook in notebook section | handling categorical attributes, creating features from text using count vector, TF-IDF features,                                                       |
+|             |                                      | neural embedding(GloVe vectors in $\mathbb{R}^d$ for words). For numerical attributes using some transformation of attributes(basis function expansion) |
+|             |                                      | polynomial features etc.                                                                                                                                |
+|-------------+--------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 8 th April  |                                      | feature selection method, filter , wrapper, embedded,                                                                                                   |
+|             |                                      | t-SNE projection overview, create account at https://aws.amazon.com/free/ for starting cloud computing                                                  |
+|             |                                      | See this new [[https://allennlp.org/elmo][ELMO]] word representation too                                                                                                               |
+|-------------+--------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 15 th April |                                      | Basics of cloud computing, Why AWS? Covered *IAM* (Security ) And *S3* (storage classes and static web hosting)                                         |
+|-------------+--------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
+|             |                                      |                                                                                                                                                         |

@@ -187,8 +187,8 @@ I will go over basic of python and jupyter notebook.
 -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/cloud_computing.ipynb][cloud, IAM , S3]]
 ** April 18 th
   *Stop the EC2 and notebook instance after use. Free tier has limit on hour etc.*
-  -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/cloud_computing_roles_webserver.ipynb][cloud EC2, role etc.]]
-  -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/aws_machine_learning.ipynb][SageMaker sample notebook]]
+  -  [[./notebooks/cloud_computing_roles_webserver.ipynb][cloud EC2, role etc.]]
+  -  [[./notebooks/aws_machine_learning.ipynb][SageMaker sample notebook]]
 * Homeworks
 *No late hw will be accepted*
 

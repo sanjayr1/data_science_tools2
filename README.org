@@ -183,9 +183,12 @@ I will go over basic of python and jupyter notebook.
 ** April 8 
 -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/feature_selection.ipynb][feature selection]]
 
-** 15
--  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/cloud_computing.ipynb][cloud]]
-
+** 15 April
+-  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/cloud_computing.ipynb][cloud, IAM , S3]]
+** April 18 th
+  **Stop the EC2 and notebook instance after use. Free tier has limit on hour etc.**
+  -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/cloud_computing_roles_webserver.ipynb][cloud EC2, role etc.]]
+  -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/aws_machine_learning.ipynb][SageMaker sample notebook]]
 * Homeworks
 *No late hw will be accepted*
 
@@ -197,6 +200,8 @@ I will go over basic of python and jupyter notebook.
 |     1 | 14 th April 11.59 p.m | [[./hws/HW1_word_embedding.ipynb][word embedding]]        |          |
 |-------+-----------------------+-----------------------+----------|
 |       |                       |                       |          |
+
+
 * Course Activity
 
 | Date        | Reading/Coding Assignments           | class activity                                                                                                                                          |

@@ -189,6 +189,8 @@ I will go over basic of python and jupyter notebook.
   *Stop the EC2 and notebook instance after use. Free tier has limit on hour etc.*
   -  [[./notebooks/cloud_computing_roles_webserver.ipynb][cloud EC2, role etc.]]
   -  [[./notebooks/aws_machine_learning.ipynb][SageMaker sample notebook]]
+** April 22
+  -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/sklearn_data_analysis_pipeline.ipynb][sklearn_data_analysis_pipeline]]
 * Homeworks
 *No late hw will be accepted*
 

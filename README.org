@@ -193,7 +193,7 @@ I will go over basic of python and jupyter notebook.
   -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/sklearn_data_analysis_pipeline.ipynb][sklearn_data_analysis_pipeline]]
 ** April 24
   -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/sklearn_outlier_validation.ipynb][sklearn_outlier_validation]]
-
+  -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/sklearn_outlier_validation_inclass.ipynb][sklearn_outlier_validation in class version]]
 
 * Homeworks
 *No late hw will be accepted*
@@ -229,6 +229,13 @@ I will go over basic of python and jupyter notebook.
 |-------------+---------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 15 th April |                                       | Basics of cloud computing, Why AWS? Covered *IAM* (Security ) And *S3* (storage classes and static web hosting)                                         |
 |-------------+---------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 16 th April | see the notebooks in notebook section | EC2, command line, Sage maker                                                                                                                           |
+| 17 th April | see the notebooks in notebook section | EC2, command line, Sage maker                                                                                                                           |
 |             |                                       |                                                                                                                                                         |
+|-------------+---------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-------------+---------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 22 April    |                                       | feature engineering and dimensionality reduction using sklearn.                                                                                         |
+|-------------+---------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-------------+---------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 24 th April |                                       | Multi variate outlier detection and validating classification model using sklearn                                                                       |
+|-------------+---------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
 |             |                                       |                                                                                                                                                         |

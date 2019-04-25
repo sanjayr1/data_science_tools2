@@ -191,6 +191,10 @@ I will go over basic of python and jupyter notebook.
   -  [[./notebooks/aws_machine_learning.ipynb][SageMaker sample notebook]]
 ** April 22
   -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/sklearn_data_analysis_pipeline.ipynb][sklearn_data_analysis_pipeline]]
+** April 24
+  -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/sklearn_outlier_validation.ipynb][sklearn_outlier_validation]]
+
+
 * Homeworks
 *No late hw will be accepted*
 

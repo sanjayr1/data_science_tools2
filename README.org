@@ -196,7 +196,8 @@ I will go over basic of python and jupyter notebook.
   -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/sklearn_outlier_validation_inclass.ipynb][sklearn_outlier_validation in class version]]
 
 ** April 29
-  -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/sklearn_data_analysis_data_validation_regression.ipynb][sklearn regression and model selection]]
+   -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/sklearn_data_analysis_data_validation_regression.ipynb][sklearn regression and model selection]]
+   -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/sklearn_data_analysis_data_validation_regression_inclass.ipynb][sklearn regression and model selection in class]]
 * Homeworks
 *No late hw will be accepted*
 
@@ -241,5 +242,7 @@ I will go over basic of python and jupyter notebook.
 |-------------+---------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
 |-------------+---------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 24 th April |                                       | Multi variate outlier detection and validating classification model using sklearn                                                                       |
+|-------------+---------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 29 th April |                                       | metrics for regression problems. model selection and evaluation.                                                                                        |
 |-------------+---------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
 |             |                                       |                                                                                                                                                         |

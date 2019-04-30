@@ -195,6 +195,8 @@ I will go over basic of python and jupyter notebook.
   -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/sklearn_outlier_validation.ipynb][sklearn_outlier_validation]]
   -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/sklearn_outlier_validation_inclass.ipynb][sklearn_outlier_validation in class version]]
 
+** April 20
+  -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/sklearn_data_analysis_data_validation_regression.ipynb][sklearn regression and model selection]]
 * Homeworks
 *No late hw will be accepted*
 

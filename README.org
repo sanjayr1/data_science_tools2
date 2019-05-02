@@ -200,6 +200,7 @@ I will go over basic of python and jupyter notebook.
    -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/sklearn_data_analysis_data_validation_regression_inclass.ipynb][sklearn regression and model selection in class]]
 ** May 1 st
     -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/sklearn_cross_validation.ipynb][sklearn kflold and grid search and custom loss functions]]
+    -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/sklearn_cross_validation_inclass.ipynb][sklearn kflold and grid search and custom loss functions in class]]
 * Homeworks
 *No late hw will be accepted*
 

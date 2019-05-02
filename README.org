@@ -198,6 +198,8 @@ I will go over basic of python and jupyter notebook.
 ** April 29
    -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/sklearn_data_analysis_data_validation_regression.ipynb][sklearn regression and model selection]]
    -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/sklearn_data_analysis_data_validation_regression_inclass.ipynb][sklearn regression and model selection in class]]
+** May 1 st
+    -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/sklearn_cross_validation.ipynb][sklearn kflold and grid search and custom loss functions]]
 * Homeworks
 *No late hw will be accepted*
 

@@ -18,7 +18,7 @@
  - [[https://radimrehurek.com/gensim/tutorial.html][Gensim tutorials]]
 
  - [[https://www.machinelearningplus.com/nlp/gensim-tutorial/][Gensim Tutorial – A Complete Beginners Guide]] shared by Logan Register
-
+ - [[https://www.plotly.express/][plotly express:a terse, consistent, high-level wrapper around Plotly.py for rapid data exploration and figure generation]]
 * Course Description
 It is recommended that you consult this github page often for material related to this course. You should check your e-mail periodically for messages.
 Assignments will be upload here and in the [[https://canvas.du.edu/login/ldap][canvas]].

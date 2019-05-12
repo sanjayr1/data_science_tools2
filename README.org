@@ -217,7 +217,8 @@ I will go over basic of python and jupyter notebook.
 |-------+-----------------------+------------------------------------------------------------------+----------|
 |     3 | 8 th May 11 a.m.      | [[./hws/HW3_model_selection_and_evaluation.ipynb][model selection and evaluation]]                                   |          |
 |       |                       |                                                                  |          |
-
+|-------+-----------------------+------------------------------------------------------------------+----------|
+|     4 | 19 May 11.59          | Please check your email for hw notebook                          |          |
 
 * Midterm
    

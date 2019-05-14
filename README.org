@@ -201,6 +201,8 @@ I will go over basic of python and jupyter notebook.
 ** May 1 st
     -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/sklearn_cross_validation.ipynb][sklearn kflold and grid search and custom loss functions]]
     -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/sklearn_cross_validation_inclass.ipynb][sklearn kflold and grid search and custom loss functions in class]]
+** May 13
+   -     -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/sklearn_custom_loss_function_cont.ipynb][n gram and custom loss]]
 * Homeworks
 *No late hw will be accepted*
 

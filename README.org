@@ -205,7 +205,9 @@ I will go over basic of python and jupyter notebook.
     -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/sklearn_custom_loss_function_cont.ipynb][n gram(model), count vectorizer and custom loss]]
     -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/sklearn_custom_loss_function_cont_inclass.ipynb][n gram(model), count vectorizer and custom loss in class version]]
 ** May 15
-    -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/feature_selection_sklearn_pipeline_flow.ipynb][more feature selection and building pipeline]]
+     -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/feature_selection_sklearn_pipeline_flow.ipynb][more feature selection and building pipeline]]
+     -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/feature_selection_sklearn_pipeline_flow_inclass.ipynb][more feature selection and building pipeline in class version]]
+
 
 * Homeworks
 *No late hw will be accepted*
@@ -267,5 +269,8 @@ I will go over basic of python and jupyter notebook.
 |-------------+---------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 13 th MAy   |                                       | n-gram(model) and bag of word model(presence absence(Bernoulli), count(multinomial)),                                                                   |
 |             |                                       | custom weighted log loss(cross entropy) function for classification.                                                                                    |
+|-------------+---------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 15 th May   |                                       | feature selection, Randomized Logistic Regression, LASSO, recursive feature elimination(RFECV class) and FeatureUnion and Pipeline class                |
+|             |                                       |                                                                                                                                                         |
 |-------------+---------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
 |             |                                       |                                                                                                                                                         |

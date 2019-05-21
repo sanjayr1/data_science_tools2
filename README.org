@@ -207,7 +207,9 @@ I will go over basic of python and jupyter notebook.
 ** May 15
      -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/feature_selection_sklearn_pipeline_flow.ipynb][more feature selection and building pipeline]]
      -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/feature_selection_sklearn_pipeline_flow_inclass.ipynb][more feature selection and building pipeline in class version]]
-
+** May 20
+    - [[./notebooks/data_formats.ipynb][data formats for sage maker]]
+    - [[./notebooks/aws_machine_learning_setup.ipynb][aws sage maker setup]]
 
 * Homeworks
 *No late hw will be accepted*

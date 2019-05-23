@@ -212,7 +212,8 @@ I will go over basic of python and jupyter notebook.
     - [[./notebooks/aws_machine_learning_setup.ipynb][aws sage maker setup]]
 ** May 22
    - [[./notebooks/linear_regression_xgboost.ipynb][xgboost linear regression]]
-   - [[./polynomial_reg_xgboost.ipynb][xgboost polynomial regression]]  
+   - [[./notebooks/polynomial_reg_xgboost.ipynb][xgboost polynomial regression]]  
+
 
 * Homeworks
 *No late hw will be accepted*

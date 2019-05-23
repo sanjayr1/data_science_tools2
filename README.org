@@ -210,6 +210,9 @@ I will go over basic of python and jupyter notebook.
 ** May 20
     - [[./notebooks/data_formats.ipynb][data formats for sage maker]]
     - [[./notebooks/aws_machine_learning_setup.ipynb][aws sage maker setup]]
+** May 22
+   - [[./notebooks/linear_regression_xgboost.ipynb][xgboost linear regression]]
+   - [[./polynomial_reg_xgboost.ipynb][xgboost polynomial regression]]  
 
 * Homeworks
 *No late hw will be accepted*

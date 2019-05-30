@@ -213,8 +213,9 @@ I will go over basic of python and jupyter notebook.
 ** May 22
    - [[./notebooks/linear_regression_xgboost.ipynb][xgboost linear regression]]
    - [[./notebooks/polynomial_reg_xgboost.ipynb][xgboost polynomial regression]]  
-
-
+** May 29
+        -  [[https://mybinder.org/v2/gh/psnegi/data_science_tools2/master?filepath=notebooks/kaggle_bike_rental.ipynb][kaggle bike rental]]
+          
 * Homeworks
 *No late hw will be accepted*
 
@@ -278,5 +279,11 @@ I will go over basic of python and jupyter notebook.
 |-------------+---------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 15 th May   |                                       | feature selection, Randomized Logistic Regression, LASSO, recursive feature elimination(RFECV class) and FeatureUnion and Pipeline class                |
 |             |                                       |                                                                                                                                                         |
+|-------------+---------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 20 th May   |                                       | sage maker setup and data format                                                                                                                        |
+|-------------+---------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 22 th May   |                                       | xgboost regression linear, polynomial                                                                                                                   |
+|-------------+---------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 29 th May   |                                       | Kaggle bike sharing prediction, in class data science life cycle and submission                                                                         |
 |-------------+---------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
 |             |                                       |                                                                                                                                                         |

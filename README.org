@@ -238,6 +238,7 @@ I will go over basic of python and jupyter notebook.
 * Midterm
    
 
+
 * Course Activity
 
 | Date        | Reading/Coding Assignments            | class activity                                                                                                                                          |
@@ -287,3 +288,4 @@ I will go over basic of python and jupyter notebook.
 | 29 th May   |                                       | Kaggle bike sharing prediction, in class data science life cycle and submission                                                                         |
 |-------------+---------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------|
 |             |                                       |                                                                                                                                                         |
+ 

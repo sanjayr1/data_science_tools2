@@ -54,9 +54,8 @@ Not graded. Any team member can submit this. Main focus in tools 2 is building p
 - Statistical testing
 - Feature engineering
 - NLP word representation
-- Time series analysis
 - Cloud computing basics(AWS EC2, S3, IAM etc.)
-- Severless computing, AWS lambda (may be will use Alexa skill), building REST API etc.
+- Sage Maker, may be AWS lambda (may be will use Alexa skill) etc.
 - Stats model for linear regression
 - statsmodels and sklearn for logistic regression
 - model evaluation and selection

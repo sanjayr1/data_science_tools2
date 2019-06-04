@@ -220,6 +220,9 @@ I will go over basic of python and jupyter notebook.
   - [[notebooks/kaggle_bike_rental_data_formatting.ipynb][kaggle_bike_rental_data_formatting]]
   - [[./notebooks/train_in_the_cloud.ipynb][train_in_the_cloud]]
   - [[./notebooks/making_prediction_from_local_client.ipynb][making_prediction_from_local_client]]
+
+  [[./notebooks/kaggle_bike_rental_v2.ipynb][kaggle_bike_rental_v2 in class version]]
+
 * Homeworks
 *No late hw will be accepted*
 

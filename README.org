@@ -218,8 +218,8 @@ I will go over basic of python and jupyter notebook.
 
 ** June 3 rd
   - [[notebooks/kaggle_bike_rental_data_formatting.ipynb][kaggle_bike_rental_data_formatting]]
-  - [[train_in_the_cloud.ipynb][train_in_the_cloud]]
-  - [[making_prediction_from_local_client.ipynb][making_prediction_from_local_client]]
+  - [[./notebooks/train_in_the_cloud.ipynb][train_in_the_cloud]]
+  - [[./notebooks/making_prediction_from_local_client.ipynb][making_prediction_from_local_client]]
 * Homeworks
 *No late hw will be accepted*
 
